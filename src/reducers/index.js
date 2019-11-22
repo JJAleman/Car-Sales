@@ -1,8 +1,7 @@
 
 
 const initialState = {
-    isLoading: false,
-    error: "",
+    
 }
 
 const reducer = (state = initialState, action) => {
